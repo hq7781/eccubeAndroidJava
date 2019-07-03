@@ -1,0 +1,19 @@
+<resources>
+    <!--App Title Strings-->
+    <string name="app_name">eccubeサンプル</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_notification_helper">NotificationHelperActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <!--Tab Name Strings -->
+    <string name="tab_label_top">TOP</string>
+    <string name="tab_label_all_items">商品一覧</string>
+    <string name="tab_label_mypage">マイページ</string>
+    <string name="tab_label_cart">カート</string>
+    <string name="tab_label_fav">お気に入り</string>
+    <!--Notice Strings-->
+    <string name="error_splash">PUSH通知の登録失敗。設定や通信環境を確認し、もう一度起動してください</string>
+
+</resources>
